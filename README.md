@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=23F704&random=false&width=435&lines=Olá+DEV!;FuturoDEV?!;Entusiasta?!;Curioso?!;Sinta-se+livre+para+me+contactar!+)](https://git.io/typing-svg)
 
-# <center style="color:#AFFCA1">Quem sou eu ?</center>
+<h1 align="center" style="color:#AFFCA1">Quem sou eu ?</h1>
 
 ## <p style="color:#E4FEE0"><font size="3">Me chamo Cicero Buenos, sou apaixonado por tecnologia desde os meus 12 anos, ~~(não lembro qual a idade exata mas, foi mais ou menos com essa idade que ganhei meu primeiro computador meu saldoso celeron)~~ estava sempre procurando saber como tudo aparecia na tela feito mágica, eu até modificava alguns arquivos em jogos sem nem saber que aquilo estava ligado a programação. Fui pesquisando e me aventurando por hardwares e softwares até que me deparei com algo que me motivou e me inspirou, **a programação**. Quando pude ver como criar sites, programas, soluções, coisas que aparecem na telinha para interagir, percebi que este era um caminho sem volta e que aquilo era o que eu gostaria de fazer para o meu futuro profissional e também por hobbie.</font></p>
 ## Atualmente estou procurando minha primeira vaga na área de programação, me aprimorando a cada dia. Me identifico de forma principal com a área de backend, mas também consigo montar algumas coisas no front e me adapto rápidamente a mudanças. 
@@ -13,7 +13,7 @@
     </a>
 </p><br>
 
-# <center style="color:#AFFCA1">Habilidades</center>
+<h1 align="center" style="color:#AFFCA1">Habilidades</h1>
 ### Estas são algumas das linguagens, framework e ferramentas que utilizo.
 <br>
 
@@ -40,7 +40,7 @@
 </p>
 <br>
 
-## <center style="color:#AFFCA1">Bora jogar ?</center><br>
+<h2 align="center" style="color:#AFFCA1">Bora jogar ?</h2><br>
 <p align="center">
     <a href="https://steamcommunity.com/profiles/76561198996178955/">
         <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&color=%2300000000" alt="Steam" />
