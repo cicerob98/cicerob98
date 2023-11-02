@@ -14,7 +14,9 @@
 </p><br>
 
 <h1 align="center" style="color:#AFFCA1">Habilidades</h1>
+
 ### Estas são algumas das linguagens, framework e ferramentas que utilizo.
+
 <br>
 
 <p align="center">
